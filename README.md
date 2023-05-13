@@ -24,12 +24,6 @@ To do this, you have to follow this steps:
 
 ##  Installation
 
-To run this code, just download or clone the repository to your environment:
-
-```git clone https://github.com/francescor93/OneDriveConnector.git```
-
-Then enter the created folder and install missing dependencies using:
-
 ```pip install -r requirements.txt```
 
 Finally copy the ```.env.example``` file and rename it to ```.env```.
